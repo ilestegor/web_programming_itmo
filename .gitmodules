@@ -1,0 +1,12 @@
+[submodule "web-lab1"]
+	path = web-lab1
+	url = https://github.com/ilestegor/web-lab1.git
+[submodule "web-lab2"]
+	path = web-lab2
+	url = https://github.com/ilestegor/web-lab2.git
+[submodule "web-lab3"]
+	path = web-lab3
+	url = https://github.com/ilestegor/web-lab3.git
+[submodule "web-lab4"]
+	path = web-lab4
+	url = https://github.com/ilestegor/web-lab4.git
